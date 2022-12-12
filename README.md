@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[ES6 Awesome Books]** is a single page web application that keeps tracks of books. Book details captured are the book title, and author. User can add a book, view a list of books and also remove any unwanted. built with Javascript, HTML&CSS
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -96,9 +96,8 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Add a book to the book list]**
+- **[Remove a book from the list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,15 +203,10 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/lawrahkonwea)
+- Twitter: [@twitterhandle](https://twitter.com/lawrah_xo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Amakalaurakonwea)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
